@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
