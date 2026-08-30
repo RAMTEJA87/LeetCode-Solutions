@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Binary Search
@@ -40,4 +41,9 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
