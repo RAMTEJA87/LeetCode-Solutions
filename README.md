@@ -59,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/RAMTEJA87/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
